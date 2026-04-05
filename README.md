@@ -68,5 +68,3 @@ MIT © arthenox
 Use this tool only on systems you own or have explicit permission to test.
 EOF
 ```
-
----
